@@ -1,26 +1,29 @@
+-------------------------------------------------------------------------------
 
-fjenett 20080331
-mail@florianjenett.de
+	Illustrator drawing --> Processing code
 
 -------------------------------------------------------------------------------
 
-So geht's:
+	Florian Jenett, 2008 - 2010
+	http://bezier.de/processing/ai2p/
 
-- in Illustrator CS2 eine Zeichnung machen
+-------------------------------------------------------------------------------
 
-- Datei sichern (als normale .ai Datei bspw.)
-
-- im Menu unter "File > Scripts > Other Scripts ..." aufrufen
-  ("Datei > Scripte > Anderes Script ...")
-  
-- im Dialogfenster das Script "AiCS2toProsessing.js" auswählen
-
-[Script läuft ganz kurz]
-
-- neben der offenen Datei sollte jetzt eine ".pde" Datei
-  erstellt worden sein
-
-- in Processing die Datei im Menu über "File > Open"
-  öffnen und testen!
+	Instructions:
+	
+	- draw something in Illustrator
+	
+	- save your drawing somewhere
+	
+	- run menu command
+	  File > Scripts > Other Scripts ...
+	  
+	- choose "AiCS2toProsessing.js"
+	
+	[ .. script is running .. ]
+	
+	- now there should be a ".pde" next to your ".ai"
+	
+	- open the ".pde" in Processing and see if it worked
 
 -------------------------------------------------------------------------------
