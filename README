@@ -1,0 +1,24 @@
+
+	fjenett 20080331
+	mail@florianjenett.de
+	
+	---------------------------------------------------------------------------------
+	
+	So geht's:
+	
+		- in Illustrator CS2 eine Zeichnung machen
+		
+		- Datei sichern (als normale .ai Datei bspw.)
+		
+		- im Menu unter "File > Scripts > Other Scripts ..." aufrufen
+		  ("Datei > Scripte > Anderes Script ...")
+		  
+		- im Dialogfenster das Script "AiCS2toProsessing.js" auswŠhlen
+		
+		[Script lŠuft ganz kurz]
+		
+		- neben der offenen Datei sollte jetzt eine ".pde" Datei erstellt worden sein
+		
+		- in Processing die Datei im Menu Ÿber "File > Open" šffnen und testen!
+	
+	---------------------------------------------------------------------------------
